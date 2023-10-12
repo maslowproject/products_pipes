@@ -1,0 +1,12 @@
+Hey this is Josh.
+
+I wrote this quick example in about an hour and a half.
+
+I highlighted my understanding of classes and some quick data retrieval using json files.
+
+I know there's much more complicated scenarios but for the sake of time this is what I put together.
+
+I've included a picture of my very rough class Diagram. My thought process was to map out the the basic data relations from my
+job at SCGTS if I was in charge. Products are the base class. Pipes and accessories are extended from Products and can be related to each other one to many.
+
+This code is more or less theoretical. No testing was done.
